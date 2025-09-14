@@ -1,8 +1,8 @@
 # Praboth Charith
 
-### Full Stack Developer & Designer
+### Software Engineer | Web Developer | Graphic Designer
 
-I'm Praboth Charith, a passionate Full Stack Developer and Designer specializing in creating elegant, user-centric digital solutions. I transform complex challenges into intuitive web applications, focusing on innovative development, UI/UX design, and scalable architecture.
+I'm Praboth Charith, software engineer and designer who builds user-friendly, scalable web apps. From full-stack development to UI/UX design, I create digital solutions that look great and work smoothly.
 
 **What I Do:**
 *   **Full-Stack Web Development:** Crafting responsive and scalable web applications.
@@ -15,7 +15,7 @@ Explore my work and connect with me:
 *   **Email:** praboth.c@icloud.com
 *   **LinkedIn:** [Praboth Charith](https://www.linkedin.com/in/prabothcharith)
 *   **Dribbble:** [Praboth Charith](https://dribbble.com/praboth)
-*   **Behance:** [Praboth Charith](https://www.behance.net/prabothcharith)
+*   **Behance:** [Praboth Charith](https://www.behance.net/praboth)
 
 Let's build something amazing together!
 
