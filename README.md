@@ -1,8 +1,8 @@
 # Praboth Charith
 
-### Software Engineer | Web Developer | Graphic Designer
+### Software Engineer | Graphic Designer
 
-I'm Praboth Charith, software engineer and designer who builds user-friendly, scalable web apps. From full-stack development to UI/UX design, I create digital solutions that look great and work smoothly.
+I'm Praboth Charith, a software engineer and designer who builds user-friendly, scalable web apps. From full-stack development to UI/UX design, I create digital solutions that look great and work smoothly.
 
 **What I Do:**
 *   **Full-Stack Web Development:** Crafting responsive and scalable web applications.
